@@ -50,3 +50,12 @@ p.greeting-paragraph {
   color: white;
   padding: 1rem;
 }
+
+/* Exercise 3 */
+
+div.border-check {
+  border: 1rem solid red;
+  background-color: black;
+  width: 200px;
+  height: 200px;
+}
