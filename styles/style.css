@@ -59,3 +59,35 @@ div.border-check {
   width: 200px;
   height: 200px;
 }
+
+/* Exercise 4 */
+
+div.border-design {
+  border: 4px solid yellow;
+  background-color: white;
+  width: 100%;
+  height: auto;
+}
+
+div.border-title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 2rem;
+  background-color: black;
+  height: 60px;
+  width: 100%;
+}
+
+h1.e4 {
+  color: yellow;
+  font-size: larger;
+  margin: 0;
+}
+
+.border-design p {
+  border: 0.5rem solid black;
+  color: black;
+  padding: 1rem;
+  margin: 1rem;
+}
