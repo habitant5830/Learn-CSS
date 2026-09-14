@@ -91,3 +91,29 @@ h1.e4 {
   padding: 1rem;
   margin: 1rem;
 }
+
+/* Exercise 5*/
+
+div.box1 {
+  display: inline-block;
+  background-color: forestgreen;
+  width: 200px;
+  height: 200px;
+}
+
+div.box2 {
+  display: inline-block;
+  background-color: blueviolet;
+  width: 200px;
+  height: 200px;
+}
+
+p.text1 {
+  display: inline;
+  background-color: blueviolet;
+}
+
+p.text2 {
+  display: inline;
+  background-color: chocolate;
+}
