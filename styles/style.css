@@ -1,0 +1,52 @@
+* {
+  font-family: "Times New Roman", Times, serif;
+}
+
+div.tutorial {
+  background-color: crimson;
+  height: 180px;
+  width: 300px;
+  border: 1rem solid yellow;
+  padding: 2rem;
+}
+
+div h1 {
+  color: aliceblue;
+}
+
+p {
+  color: aliceblue;
+}
+
+#wekka {
+  color: aqua;
+}
+
+/* Exercise 1*/
+
+div.big-box {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  margin: 10px;
+}
+
+div.small-box {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  margin: 10px;
+}
+
+/* Exercise 2*/
+
+div.greetings {
+  background-color: black;
+  width: 200px;
+  height: 200px;
+}
+
+p.greeting-paragraph {
+  color: white;
+  padding: 1rem;
+}
