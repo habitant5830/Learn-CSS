@@ -134,3 +134,22 @@ div div.nav-item {
   background-color: black;
   color: white;
 }
+
+/* Exercise 7*/
+
+nav {
+  color: white;
+  background-color: black;
+}
+
+h1,
+ul,
+li {
+  display: inline;
+  margin: 5px;
+  padding: 1rem;
+}
+
+ul {
+  margin: 30%;
+}
