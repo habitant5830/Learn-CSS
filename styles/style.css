@@ -117,3 +117,20 @@ p.text2 {
   display: inline;
   background-color: chocolate;
 }
+
+/* Exercise 6*/
+
+div.nav {
+  display: flex;
+  justify-content: center;
+  gap: 4rem;
+  font-size: large;
+  border: 5px solid yellow;
+  background-color: white;
+}
+
+div div.nav-item {
+  display: inline;
+  background-color: black;
+  color: white;
+}
